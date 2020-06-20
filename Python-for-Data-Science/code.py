@@ -1,8 +1,7 @@
-# --------------
-# Importing header files
+# Importing Numpy library
 import numpy as np
 
-#New record
+#Creating am array as New record
 new_record=[[50,  9,  4,  1,  0,  0, 40,  0]]
 
 #Code starts here
@@ -98,5 +97,3 @@ avg_pay_low=low[:,7].mean()
 #Printing the average pay
 print(avg_pay_low)
 #Code ends here
-
-
