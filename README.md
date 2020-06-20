@@ -1,2 +1,1 @@
-Following concepts are covered in this program
-- Manipulating data using NumPy
+Computing and manipulating data using NumPy
